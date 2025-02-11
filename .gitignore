@@ -1,1 +1,4 @@
 .idea
+
+# OS generated
+.DS_Store
